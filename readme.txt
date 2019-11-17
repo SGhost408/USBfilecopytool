@@ -1,4 +1,4 @@
-This is a few files that you copy to your USB drive to discretely obtain files from a Windows PC.
+This little program allows you to discretely obtain files from a Windows PC and automatically copies them to your USB drive.
 
 Instructions:
 
