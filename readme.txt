@@ -11,3 +11,4 @@ Plug it in, if it does not automatically run, click on launch.bat
 The files.bat is where you change what data you want to obtain. EXAMPLE: %backupcmd% "%USERPROFILE%\Documents" "%drive%\All\S Documents" can be changed to: %backupcmd% "%USERPROFILE%\Downloads" "%drive%\All\S Downloads"
 
 This was created for educational purposes.
+https://github.com/spdghost408/GhostUSBtool/wiki
