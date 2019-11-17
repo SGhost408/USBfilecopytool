@@ -20,4 +20,5 @@ files.bat = uses xcopy to transfer the files/folders
 "All" Folder is where your targets files will be located. 
 
 This was created for educational purposes.
+https://imgur.com/lWyyjXH
 https://github.com/spdghost408/GhostUSBtool/wiki
