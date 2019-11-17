@@ -21,4 +21,4 @@ files.bat = uses xcopy to transfer the files/folders
 
 This was created for educational purposes.
 https://imgur.com/lWyyjXH
-https://github.com/spdghost408/GhostUSBtool/wiki
+https://github.com/sghost408/GhostUSBtool/wiki
