@@ -3,7 +3,7 @@ This is a few files that you copy to your USB drive to discretely obtain files f
 Instructions:
 
 Download files from Github and place them into your USB Drive.
-Create a new folder named "All" (this is where your newly obtained files will be located.)
+Create a new folder named "All" (this is where your newly obtained files from your target will be located.)
 Go to your Windows/system32 folder and copy the following files to your USB Drive: xcopy.exe wscript.exe
 So by now you should have 6 files, and 1 empty folder on your USB drive.
 Safely unplug your USB drive, and test it on your machine.
